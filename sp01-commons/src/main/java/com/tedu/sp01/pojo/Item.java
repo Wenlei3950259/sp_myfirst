@@ -12,7 +12,7 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
-
+//你时间快捷键控制
 	//技能
 }
 
